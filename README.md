@@ -1,15 +1,7 @@
+# Thanos Snap
+Gamora: _"The entire time I knew Thanos, he only ever had one goal: To wipe out half the universe. If he gets all the Infinity Stones... he can do it with the snap of his fingers, just like that."_
 
-_"At random, dispassionate, fair to rich and poor alike. They called me a madman, and what I predicted came to pass."_
-
-_"Congratulations. You're a prophet."_
-
-_"I'm a survivor."_
-
-_"Who wants to murder trillions."_
-
-_"With all six Stones, I could simply snap my fingers. They would all cease to exist. I call that mercy."_
-
-- [Thanos](https://marvelcinematicuniverse.fandom.com/wiki/Thanos) and [Doctor Strange](https://marvelcinematicuniverse.fandom.com/wiki/Doctor_Strange)
+[The Infinity War](https://marvelcinematicuniverse.fandom.com/wiki/Infinity_War)
 
 ![Thanos snaps his fingers](thanos-snap.jpg 'Thanos Snap')
 
