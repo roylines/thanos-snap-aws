@@ -1,0 +1,38 @@
+{
+  "name": "thanos-snap-aws",
+  "version": "1.0.0",
+  "description": "snap your fingers, and decimate half of your running EC2 instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roylines/thanos-snap-aws.git"
+  },
+  "keywords": [
+    "thanos",
+    "snap",
+    "aws",
+    "chaos",
+    "monkey",
+    "ec2",
+    "decimation"
+  ],
+  "author": "Roy Lines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roylines/thanos-snap-aws/issues"
+  },
+  "homepage": "https://github.com/roylines/thanos-snap-aws#readme",
+  "engines": {
+    "node": ">=0.10.15"
+  },
+  "devDependencies": {
+    "jest": "*",
+    "jest-cli": "*"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.457.0"
+  }
+}
