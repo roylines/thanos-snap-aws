@@ -4,21 +4,13 @@
   "description": "snap your fingers, and decimate half of your running EC2 instances",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roylines/thanos-snap-aws.git"
   },
-  "keywords": [
-    "thanos",
-    "snap",
-    "aws",
-    "chaos",
-    "monkey",
-    "ec2",
-    "decimation"
-  ],
+  "keywords": ["thanos", "snap", "aws", "chaos", "monkey", "ec2", "decimation"],
   "author": "Roy Lines",
   "license": "MIT",
   "bugs": {
