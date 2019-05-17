@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`aws ec2 can call describeInstances 1`] = `"describeInstancesResponse"`;
+
+exports[`aws ec2 can call describeInstances 2`] = `
+Array [
+  Array [
+    "REQUEST",
+  ],
+]
+`;
